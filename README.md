@@ -1,5 +1,18 @@
 # SVM-Classification-vs-Regression-SVR-with-scikit-learn
-A simple Python project demonstrating the difference between Support Vector Machines (SVM) for classification and regression (SVR) using scikit-learn. Includes visualization and evaluation of both approaches on real datasets.
+A comprehensive tutorial demonstrating Support Vector Machine (SVM) concepts with separate, minimal code examples using scikit-learn — including classification, regression (SVR), hyperplanes, margins, kernels, support vectors, and more.
+
+This repository provides a detailed walkthrough of Support Vector Machines (SVM) using scikit-learn with clean, separate code examples for each core concept. Whether you're a beginner or refreshing your ML knowledge, you'll find code snippets and visualizations that clearly explain:
+
+* What is an SVM?
+* Understanding Hyperplanes and Margins
+* Visualizing Support Vectors
+* Linear vs Non-Linear SVM
+* Kernel Functions (Linear, RBF, Polynomial, Sigmoid)
+* Effects of C and gamma parameters
+* SVM for Classification and Regression (SVR)
+* Practical examples on popular datasets like Iris and Diabetes
+
+Each concept is covered in its own standalone Python file or notebook for clarity and easy learning. Ideal for students, ML practitioners, and developers looking to grasp SVM intuitively.
 
 **SVM for Classification:** The model finds the optimal hyperplane that separates different classes with maximum margin.
 
