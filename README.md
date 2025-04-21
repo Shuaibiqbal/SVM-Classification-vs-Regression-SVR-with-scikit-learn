@@ -7,9 +7,9 @@ A simple Python project demonstrating the difference between Support Vector Mach
 
 ### 🔍 This project uses:
 
-Iris dataset for classification (visualized using 2 features)
+**Iris dataset** for classification (visualized using 2 features)
 
-Diabetes dataset for regression (using a single feature for 1D visualization)
+**Diabetes dataset** for regression (using a single feature for 1D visualization)
 
 📊 Visualizations and performance metrics (Accuracy and MSE) are included to help understand how both models operate differently under the hood.
 
