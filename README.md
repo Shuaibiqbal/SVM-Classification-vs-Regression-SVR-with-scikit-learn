@@ -33,3 +33,5 @@ Each concept is covered in its own standalone Python file or notebook for clarit
 * matplotlib
 * numpy
 💡 Great for beginners learning how SVMs work in classification vs. regression tasks.
+
+for more clearification open notebook 
